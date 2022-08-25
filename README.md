@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josumsc/credit-card-fraud-detection/blob/master/src/credit_card_fraud_detection.ipynb)
+
 This notebook addresses one of the most relevant problems in the current years regarding e-commerce industry: Credit
 Card Fraud. The approach to reach the solution of the problem will be pragmatic, covering from the data exploration
 to the model evaluation and selection.
